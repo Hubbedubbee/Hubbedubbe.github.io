@@ -1,1 +1,2 @@
-# Hubbedubbe.github.io Data Analyst
+# Hubbedubbe.github.io / Data Analyst
+SQL & Python
